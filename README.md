@@ -48,7 +48,8 @@ Before running this application, make sure you have the following installed:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/LinkMe---Social-Media-App-.git
+git clone https://github.com/Sheikhspearee/LinkMe---Social-Media-App-
+
 cd LinkMe---Social-Media-App-
 ```
 
@@ -78,11 +79,6 @@ JWT_SECRET=your-super-secret-jwt-key
 
 # Server Port
 PORT=5000
-
-# Cloudinary (for image uploads)
-CLOUDINARY_CLOUD_NAME=your-cloud-name
-CLOUDINARY_API_KEY=your-api-key
-CLOUDINARY_API_SECRET=your-api-secret
 
 # Client URL (for CORS)
 CLIENT_URL=http://localhost:3000
@@ -211,30 +207,16 @@ LinkMe---Social-Media-App-/
 - [ ] Video upload support
 - [ ] Group/community features
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/Sheikhspearee/LinkMe---Social-Media-App-)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/riyaaz-mahamed)
 
 ## 🙏 Acknowledgments
 
 - React community for excellent documentation
 - MongoDB team for the robust database solution
 - All contributors who helped improve this project
-
-## 📞 Support
-
-If you encounter any issues or have questions, please:
-
-1. Check the [Issues](https://github.com/yourusername/LinkMe---Social-Media-App-/issues) page
-2. Create a new issue if your problem isn't already listed
-3. Contact: your.email@example.com
-
----
 
 ⭐ **Star this repository if you found it helpful!**
