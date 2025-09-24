@@ -210,8 +210,8 @@ LinkMe---Social-Media-App-/
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Sheikhspearee/LinkMe---Social-Media-App-)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/riyaaz-mahamed)
+- GitHub: [@Sheikhspearee](https://github.com/Sheikhspearee/LinkMe---Social-Media-App-)
+- LinkedIn: [riyaaz-mahamed](https://linkedin.com/in/riyaaz-mahamed)
 
 ## 🙏 Acknowledgments
 
