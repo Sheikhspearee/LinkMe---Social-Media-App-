@@ -213,10 +213,3 @@ LinkMe---Social-Media-App-/
 - GitHub: [@Sheikhspearee](https://github.com/Sheikhspearee/LinkMe---Social-Media-App-)
 - LinkedIn: [riyaaz-mahamed](https://linkedin.com/in/riyaaz-mahamed)
 
-## 🙏 Acknowledgments
-
-- React community for excellent documentation
-- MongoDB team for the robust database solution
-- All contributors who helped improve this project
-
-⭐ **Star this repository if you found it helpful!**
